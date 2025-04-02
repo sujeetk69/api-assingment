@@ -1,4 +1,4 @@
-Feature: API Testing for Objects
+Feature: Test Scenarios for Restful APIs
 
   # Positive Scenarios
   Scenario: Verify an item can be created
