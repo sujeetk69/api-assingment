@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.sujeet'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // RestAssured for API Testing
+    testImplementation 'io.rest-assured:rest-assured:5.3.0'
+
+    // Cucumber for BDD
+    testImplementation 'io.cucumber:cucumber-java:7.10.1'
+    testImplementation 'io.cucumber:cucumber-testng:7.10.1'
+
+    // JSONPath for response validation
+    testImplementation 'com.jayway.jsonpath:json-path:2.7.0'
+
+    // Jackson for JSON Serialization
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.14.1'
+
+    // Log4j for logging
+    implementation 'org.slf4j:slf4j-api:2.0.7'
+    implementation 'org.apache.logging.log4j:log4j-api:2.17.1'
+    implementation 'org.apache.logging.log4j:log4j-core:2.17.1'
+    implementation 'org.apache.logging.log4j:log4j-slf4j-impl:2.17.1'
+
+    // TestNG
+    testImplementation 'org.testng:testng:7.7.0'
+}
+
+tasks.withType(Test).configureEach {
+    useTestNG()
+}

@@ -1,0 +1,47 @@
+2025-04-02 02:06:58 [TestNG-PoolService-0] INFO  com.sujeet.utils.LoggerUtil - Creating item with payload: {"data":{"CPU Model":"Intel Core i9","price":1849.99},"name":"Apple MacBook Pro 16"}
+2025-04-02 02:06:58 [TestNG-PoolService-6] INFO  com.sujeet.utils.LoggerUtil - Creating item with payload: 
+2025-04-02 02:06:58 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Creating item with payload: {"data":{"price":1299,"CPU Model":"Intel Core i5"},"name":"HP Envy"}
+2025-04-02 02:06:58 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Creating item with payload: {"data":{"price":1299,"CPU Model":"Intel Core i5"},"name":"Lenovo Think pad"}
+2025-04-02 02:06:58 [TestNG-PoolService-8] INFO  com.sujeet.utils.LoggerUtil - Creating item with payload: {"data":{},"name":"MyPDssssssssssssssssssssssssssssswdgwePDssssPDsssssssssssssssPDssssssssssssssssssssssssssssswdgwergweeeeeeeeeesssssssssssssswdgwergweeeeeeeeeessssssssssssssssssssssssswdgwergweeeeeeeeeergweeeeeeeeeePDssPDssssssssssssssssssssssssssssswdgwergweeeeeeeeessesss"}
+2025-04-02 02:06:58 [TestNG-PoolService-7] INFO  com.sujeet.utils.LoggerUtil - Creating item with payload: {"data":{},"name":"MyPDssssssssssssssssssssssssssssswdgwePDssssPDsssssssssssssssPDssssssssssssssssssssssssssssswdgwergweeeeeeeeeesssssssssssssswdgwergweeeeeeeeeessssssssssssssssssssssssswdgwergweeeeeeeeeergweeeeeeeeeePDssPDssssssssssssssssssssssssssssswdgwergweeeeeeeeessess"}
+2025-04-02 02:07:00 [TestNG-PoolService-5] INFO  com.sujeet.utils.LoggerUtil - delete Item Response: io.restassured.internal.RestAssuredResponseImpl@789f6975
+2025-04-02 02:07:00 [TestNG-PoolService-5] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 404
+2025-04-02 02:07:00 [TestNG-PoolService-5] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 404
+2025-04-02 02:07:00 [TestNG-PoolService-4] INFO  com.sujeet.utils.LoggerUtil - retrieve Item Response: io.restassured.internal.RestAssuredResponseImpl@2c574879
+2025-04-02 02:07:00 [TestNG-PoolService-4] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 404
+2025-04-02 02:07:00 [TestNG-PoolService-6] INFO  com.sujeet.utils.LoggerUtil - Create Item Response: io.restassured.internal.RestAssuredResponseImpl@60349a75
+2025-04-02 02:07:00 [TestNG-PoolService-4] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 404
+2025-04-02 02:07:00 [TestNG-PoolService-8] INFO  com.sujeet.utils.LoggerUtil - Create Item Response: io.restassured.internal.RestAssuredResponseImpl@63a77e8b
+2025-04-02 02:07:00 [TestNG-PoolService-3] INFO  com.sujeet.utils.LoggerUtil - GET All Items Response: io.restassured.internal.RestAssuredResponseImpl@677bbe64
+2025-04-02 02:07:00 [TestNG-PoolService-3] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:00 [TestNG-PoolService-3] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:00 [TestNG-PoolService-7] INFO  com.sujeet.utils.LoggerUtil - Create Item Response: io.restassured.internal.RestAssuredResponseImpl@197708e5
+2025-04-02 02:07:00 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Create Item Response: io.restassured.internal.RestAssuredResponseImpl@75291ba9
+2025-04-02 02:07:00 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Create Item Response: io.restassured.internal.RestAssuredResponseImpl@346bb57c
+2025-04-02 02:07:00 [TestNG-PoolService-0] INFO  com.sujeet.utils.LoggerUtil - Create Item Response: io.restassured.internal.RestAssuredResponseImpl@649d8c76
+2025-04-02 02:07:00 [TestNG-PoolService-3] INFO  com.sujeet.utils.LoggerUtil - Received Items Count: 13
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-8] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 500
+2025-04-02 02:07:01 [TestNG-PoolService-8] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 500
+2025-04-02 02:07:01 [TestNG-PoolService-6] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 400
+2025-04-02 02:07:01 [TestNG-PoolService-6] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 400
+2025-04-02 02:07:01 [TestNG-PoolService-7] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-7] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-0] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-0] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-0] INFO  com.sujeet.utils.LoggerUtil - Actual Item Name: Apple MacBook Pro 16
+2025-04-02 02:07:01 [TestNG-PoolService-0] INFO  com.sujeet.utils.LoggerUtil - Expected Item Name: Apple MacBook Pro 16
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - retrieve Item Response: io.restassured.internal.RestAssuredResponseImpl@132cd50
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - delete Item Response: io.restassured.internal.RestAssuredResponseImpl@22331c80
+2025-04-02 02:07:01 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 200
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Actual Item Name: Lenovo Think pad
+2025-04-02 02:07:01 [TestNG-PoolService-1] INFO  com.sujeet.utils.LoggerUtil - Expected Item Name: Lenovo Think pad
+2025-04-02 02:07:02 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - retrieve Item Response: io.restassured.internal.RestAssuredResponseImpl@4671521a
+2025-04-02 02:07:02 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Actual Status Code: 404
+2025-04-02 02:07:02 [TestNG-PoolService-2] INFO  com.sujeet.utils.LoggerUtil - Expected Status Code: 404
